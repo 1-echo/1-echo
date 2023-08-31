@@ -1,4 +1,6 @@
+
 ### Programming Languages
+
 
 <div align="center">
   
@@ -21,6 +23,15 @@
 </div>
 
 <hr></hr>
+<div align="center">
+  
+  <img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Intel-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apple-999999?style=for-the-badge&logo=apple&logoColor=white"/>
+
+</div>
+
 
 <div align="center">
 
