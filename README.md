@@ -30,6 +30,7 @@
 </div>
 
 <hr></hr>
+
 <div align="center">
   
   <img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
@@ -38,6 +39,16 @@
   <img src="https://img.shields.io/badge/Apple-999999?style=for-the-badge&logo=apple&logoColor=white"/>
 
 </div>
+
+<hr></hr>
+
+<div align="center">
+  
+  <a><img alt='Ducati' src='https://img.shields.io/badge/Ducati-100000?style=for-the-badge&logo=Ducati&logoColor=white&labelColor=FF0000&color=000000'/></a>
+
+</div>
+
+
 
 <!--
 <div align="center">
