@@ -1,6 +1,6 @@
 <div align="center">
   
-  <a href='https://somosnlp.org/comunidad' target="_blank"><img alt='amazonecs' src='https://img.shields.io/badge/SOMOSNLP MEMBER-100000?style=for-the-badge&logo=amazonecs&logoColor=FFD21E&labelColor=000000&color=FFD21E'/></a>
+  <a href='https://somosnlp.org/comunidad/david_arias' target="_blank"><img alt='amazonecs' src='https://img.shields.io/badge/SOMOSNLP MEMBER-100000?style=for-the-badge&logo=amazonecs&logoColor=FFD21E&labelColor=000000&color=FFD21E'/></a>
   <a href='https://huggingface.co/beta3' target="_blank"><img alt='amazonecs' src='https://img.shields.io/badge/HUGGING_FACE-100000?style=for-the-badge&logo=amazonecs&logoColor=FFD21E&labelColor=000000&color=FFD21E'/></a>
   
 </div>
