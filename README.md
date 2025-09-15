@@ -23,9 +23,11 @@
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/tensorflow-%23F7932A.svg?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  
 </div>
 
+<!--
 <hr></hr>
 
 <div align="center">
@@ -38,7 +40,7 @@
 
 
 
-<!--
+
 <div align="center">
 
   <img src='https://komarev.com/ghpvc/?username=1-echo&color=green'>
